@@ -19,8 +19,6 @@ Built with **Streamlit** for an interactive UI + a CLI script for quick testing.
 - `rag_cli.py` – Command-line retriever (BM25 / Vector / Fusion)
 - `requirements.txt` – project dependencies
 - `.env.example` – environment variables (Ollama settings)
-- `data/sample.pdf` – small demo file
-- `screenshots/` – example UI screenshots
 - `README.md`, `.gitignore`
 
 ---
