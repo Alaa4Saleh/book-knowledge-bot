@@ -1,0 +1,12 @@
+streamlit
+faiss-cpu
+sentence-transformers
+rank-bm25
+langchain
+nltk
+scikit-learn
+numpy
+pandas
+requests
+python-dotenv
+PyPDF2
